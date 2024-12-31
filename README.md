@@ -1,23 +1,23 @@
 <h1 align="center">
-  Hi there, I'm <span style="color: #00BFFF;">Redd</span>! 👋
+  Hi there, I'm <span style="color: #00BFFF;">osBTD</span>! 👋
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&width=435&lines=Penetration+Tester+%7C+Web+Developer;Always+Learning+and+Building;Exploring+Tech+with+Passion" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/wide/6764c22e8fe51199da49768c?variant=dark" alt="roadmap.sh" style="border-radius:10px;"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <!-- <a href="https://github.com/OsBTD">
     <img src="https://img.shields.io/github/followers/OsBTD?label=Followers&style=social" alt="GitHub Followers">
   </a> -->
   <img src="https://komarev.com/ghpvc/?username=OsBTD&color=blue" alt="Visitor Count">
-  <a href="https://www.linkedin.com/in/youssef-hayyani-a54351275/">
+  <a href="https://www.linkedin.com/in/oussama-atmani-a54351275/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
